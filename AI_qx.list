@@ -17,7 +17,7 @@ HOST-SUFFIX,identrust.com,🤖 AI -美英
 HOST-SUFFIX,intercom.io,🤖 AI -美英
 HOST-SUFFIX,intercomcdn.com,🤖 AI -美英
 HOST-SUFFIX,launchdarkly.com,🤖 AI -美英
-HOST-SUFFIX,oaistatic.com,OpenAI🤖 AI -美英
+HOST-SUFFIX,oaistatic.com,🤖 AI -美英
 HOST-SUFFIX,observeit.net,🤖 AI -美英
 HOST-SUFFIX,poe.com,🤖 AI -美英
 HOST-SUFFIX,segment.io,🤖 AI -美英
@@ -31,9 +31,9 @@ IP-ASN,14061,🤖 AI -美英
 IP-ASN,20473,🤖 AI -美英
 
 # https://claude.ai/
-HOST,cdn.usefathom.com,Claude
-HOST-SUFFIX,anthropic.com,Claude
-HOST-SUFFIX,claude.ai,Claude
+HOST,cdn.usefathom.com,🤖 AI -美英
+HOST-SUFFIX,anthropic.com,🤖 AI -美英
+HOST-SUFFIX,claude.ai,🤖 AI -美英
 
 # https://bard.google.com/
 HOST-SUFFIX,bard.google.com,bard-欧、英、瑞士
