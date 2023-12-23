@@ -1,0 +1,25 @@
+# https://openai.com/
+# created by blackmatrix7 
+# repo:https://github.com/blackmatrix7/ios_rule_script
+DOMAIN,cdn.auth0.com,🤖 AI -美英
+DOMAIN,o33249.ingest.sentry.io,🤖 AI -美英
+DOMAIN-SUFFIX,ai.com,🤖 AI Platforms
+DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 AI -美英
+DOMAIN-SUFFIX,identrust.com,🤖 AI -美英
+DOMAIN-SUFFIX,stripe.com,🤖 AI -美英
+DOMAIN-KEYWORD,openai,🤖 AI -美英
+
+# https://claude.ai/
+# created by limbopro
+# repo:https://github.com/limbopro/Profiles4limbo/
+DOMAIN-KEYWORD,claude,🤖 AI -美英
+
+# https://bard.google.com/
+# created by limbopro
+# repo:https://github.com/limbopro/Profiles4limbo/
+DOMAIN-SUFFIX,google.com,🤖 AI -美英
+DOMAIN-SUFFIX,apis.google.com,🤖 AI -美英
+DOMAIN-SUFFIX,bard.google.com,🤖 AI -美英
+DOMAIN-SUFFIX,in.appcenter.ms,🤖 AI -美英
+DOMAIN-SUFFIX,ogs.google.com,🤖 AI -美英
+DOMAIN-SUFFIX,www.google.com,🤖 AI -美英
