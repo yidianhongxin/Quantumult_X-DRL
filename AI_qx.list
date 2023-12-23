@@ -1,25 +1,40 @@
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
 # https://openai.com/
-# created by blackmatrix7 
-# repo:https://github.com/blackmatrix7/ios_rule_script
-DOMAIN,cdn.auth0.com,🤖 AI -美英
-DOMAIN,o33249.ingest.sentry.io,🤖 AI -美英
-DOMAIN-SUFFIX,ai.com,🤖 AI Platforms
-DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 AI -美英
-DOMAIN-SUFFIX,identrust.com,🤖 AI -美英
-DOMAIN-SUFFIX,stripe.com,🤖 AI -美英
-DOMAIN-KEYWORD,openai,🤖 AI -美英
+HOST,browser-intake-datadoghq.com,🤖 AI -美英
+HOST,static.cloudflareinsights.com,🤖 AI -美英
+HOST-SUFFIX,ai.com,🤖 AI -美英
+HOST-SUFFIX,algolia.net,🤖 AI -美英
+HOST-SUFFIX,api.statsig.com,🤖 AI -美英
+HOST-SUFFIX,auth0.com,🤖 AI -美英
+HOST-SUFFIX,cdn.cloudflare.net,🤖 AI -美英
+HOST-SUFFIX,challenges.cloudflare.com,🤖 AI -美英
+HOST-SUFFIX,chatgpt.livekit.cloud,🤖 AI -美英
+HOST-SUFFIX,client-api.arkoselabs.com,🤖 AI -美英
+HOST-SUFFIX,events.statsigapi.net,🤖 AI -美英
+HOST-SUFFIX,featuregates.org,🤖 AI -美英
+HOST-SUFFIX,host.livekit.cloud,🤖 AI -美英
+HOST-SUFFIX,identrust.com,🤖 AI -美英
+HOST-SUFFIX,intercom.io,🤖 AI -美英
+HOST-SUFFIX,intercomcdn.com,🤖 AI -美英
+HOST-SUFFIX,launchdarkly.com,🤖 AI -美英
+HOST-SUFFIX,oaistatic.com,OpenAI🤖 AI -美英
+HOST-SUFFIX,observeit.net,🤖 AI -美英
+HOST-SUFFIX,poe.com,🤖 AI -美英
+HOST-SUFFIX,segment.io,🤖 AI -美英
+HOST-SUFFIX,sentry.io,🤖 AI -美英
+HOST-SUFFIX,stripe.com,🤖 AI -美英
+HOST-SUFFIX,turn.livekit.cloud,🤖 AI -美英
+HOST-KEYWORD,openai,🤖 AI -美英
+IP-CIDR,24.199.123.28/32,🤖 AI -美英
+IP-CIDR,64.23.132.171/32,🤖 AI -美英
+IP-ASN,14061,🤖 AI -美英
+IP-ASN,20473,🤖 AI -美英
 
 # https://claude.ai/
-# created by limbopro
-# repo:https://github.com/limbopro/Profiles4limbo/
-DOMAIN-KEYWORD,claude,🤖 AI -美英
+HOST,cdn.usefathom.com,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,claude.ai,Claude
 
 # https://bard.google.com/
-# created by limbopro
-# repo:https://github.com/limbopro/Profiles4limbo/
-DOMAIN-SUFFIX,google.com,🤖 AI -美英
-DOMAIN-SUFFIX,apis.google.com,🤖 AI -美英
-DOMAIN-SUFFIX,bard.google.com,🤖 AI -美英
-DOMAIN-SUFFIX,in.appcenter.ms,🤖 AI -美英
-DOMAIN-SUFFIX,ogs.google.com,🤖 AI -美英
-DOMAIN-SUFFIX,www.google.com,🤖 AI -美英
+HOST-SUFFIX,bard.google.com,bard-欧、英、瑞士
+HOST-KEYWORD,bard,bard-欧、英、瑞士
