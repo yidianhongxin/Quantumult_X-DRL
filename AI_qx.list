@@ -49,6 +49,7 @@ HOST,www.google-analytics.com,bard-欧、英、瑞士
 HOST,cdn.usefathom.com,🤖 AI -美英
 HOST,copilot.microsoft.com,🤖 AI -美英
 HOST-SUFFIX,bing.com,🤖 AI -美英
+HOST-SUFFIX,bing.net,🤖 AI -美英
 HOST,services.bingapis.com,🤖 AI -美英
 # ---
 # 马斯克的推特Grok
