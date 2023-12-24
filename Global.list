@@ -207,16 +207,16 @@ HOST-SUFFIX,nytlog.com,PROXY
 HOST-SUFFIX,nytstyle.com,PROXY
 HOST-SUFFIX,tmagazine.com,PROXY
 # > Twitter
-HOST-SUFFIX,periscope.tv,PROXY
-HOST-SUFFIX,pscp.tv,PROXY
-HOST-SUFFIX,t.co,PROXY
-HOST-SUFFIX,tweetdeck.com,PROXY
-HOST-SUFFIX,twimg.co,PROXY
-HOST-SUFFIX,twimg.com,PROXY
-HOST-SUFFIX,twitpic.com,PROXY
-HOST-SUFFIX,twitter.com,PROXY
-HOST-SUFFIX,twitter.jp,PROXY
-HOST-SUFFIX,vine.co,PROXY
+HOST-SUFFIX,periscope.tv,🛫 🔥超速通过
+HOST-SUFFIX,pscp.tv,🛫 🔥超速通过
+HOST-SUFFIX,t.co,🛫 🔥超速通过
+HOST-SUFFIX,tweetdeck.com,🛫 🔥超速通过
+HOST-SUFFIX,twimg.co,🛫 🔥超速通过
+HOST-SUFFIX,twimg.com,🛫 🔥超速通过
+HOST-SUFFIX,twitpic.com,🛫 🔥超速通过
+HOST-SUFFIX,twitter.com,🛫 🔥超速通过
+HOST-SUFFIX,twitter.jp,🛫 🔥超速通过
+HOST-SUFFIX,vine.co,🛫 🔥超速通过
 # > Wikimedia Foundation
 HOST-SUFFIX,mediawiki.org,PROXY
 HOST-SUFFIX,wikibooks.org,PROXY
