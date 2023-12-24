@@ -38,9 +38,14 @@ HOST-SUFFIX,claude.ai,🇺🇸 漂亮专用
 # https://bard.google.com/
 HOST-SUFFIX,bard.google.com,bard-欧、英、瑞士
 HOST-KEYWORD,bard,bard-欧、英、瑞士
+HOST,img-s.msn.cn,bard-欧、英、瑞士
+HOST,alkalimetricsink-pa.clients6.google.com,bard-欧、英、瑞士
+HOST,people-pa.clients6.google.com,bard-欧、英、瑞士
+HOST,makersuite.google.com,bard-欧、英、瑞士
+HOST,www.google-analytics.com,bard-欧、英、瑞士
 # ---
 # https://www.bing.com/
 HOST,cdn.usefathom.com,🇺🇸 漂亮专用
 HOST,copilot.microsoft.com,🇺🇸 漂亮专用
 HOST-SUFFIX,bing.com,🇺🇸 漂亮专用
-HOST-KEYWORD,MSN,🇺🇸 漂亮专用
+HOST,services.bingapis.com,🇺🇸 漂亮专用
