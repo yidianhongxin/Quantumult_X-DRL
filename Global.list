@@ -108,7 +108,7 @@ HOST-SUFFIX,dropboxusercontent.com,🛫 🔥超速通过
 # > Fastly
 HOST-SUFFIX,freetls.fastly.net,PROXY
 HOST,cloud-cdn-digitalocean-com.global.ssl.fastly.net,PROXY
-HOST,github.global.ssl.fastly.net,PROXY
+HOST,github.global.ssl.fastly.net,🤖 AI -美英
 HOST,nytimes.map.fastly.net,PROXY
 # > Line
 HOST-SUFFIX,line.me,PROXY
@@ -143,11 +143,11 @@ HOST-SUFFIX,whatsapp.net,PROXY
 HOST-KEYWORD,.facebook.,PROXY
 # > Microsoft
 HOST-SUFFIX,aka.ms,PROXY
-HOST-SUFFIX,github.blog,PROXY
-HOST-SUFFIX,github.com,PROXY
-HOST-SUFFIX,github.io,PROXY
-HOST-SUFFIX,githubassets.com,PROXY
-HOST-SUFFIX,githubusercontent.com,PROXY
+HOST-SUFFIX,github.blog,🤖 AI -美英
+HOST-SUFFIX,github.com,🤖 AI -美英
+HOST-SUFFIX,github.io,🤖 AI -美英
+HOST-SUFFIX,githubassets.com,🤖 AI -美英
+HOST-SUFFIX,githubusercontent.com,🤖 AI -美英
 HOST-SUFFIX,onedrive.live.com,PROXY
 HOST-SUFFIX,streaming.mediaservices.windows.net,PROXY
 HOST,assets1.xboxlive.com,PROXY
