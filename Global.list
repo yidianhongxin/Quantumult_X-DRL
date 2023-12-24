@@ -98,9 +98,9 @@ HOST-SUFFIX,sushi.com,PROXY
 HOST-SUFFIX,uniswap.org,PROXY
 HOST-SUFFIX,zb.com,PROXY
 # > Discord
-HOST-SUFFIX,discord.com,PROXY
-HOST-SUFFIX,discordapp.com,PROXY
-HOST-SUFFIX,discordapp.net,PROXY
+HOST-SUFFIX,discord.com,🤖 AI -美英
+HOST-SUFFIX,discordapp.com,🤖 AI -美英
+HOST-SUFFIX,discordapp.net,🤖 AI -美英
 # > Dropbox
 HOST-SUFFIX,dropbox.com,🛫 🔥超速通过
 HOST-SUFFIX,dropboxapi.com,🛫 🔥超速通过
