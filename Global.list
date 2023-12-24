@@ -102,9 +102,9 @@ HOST-SUFFIX,discord.com,PROXY
 HOST-SUFFIX,discordapp.com,PROXY
 HOST-SUFFIX,discordapp.net,PROXY
 # > Dropbox
-HOST-SUFFIX,dropbox.com,PROXY
-HOST-SUFFIX,dropboxapi.com,PROXY
-HOST-SUFFIX,dropboxusercontent.com,PROXY
+HOST-SUFFIX,dropbox.com,🛫 🔥超速通过
+HOST-SUFFIX,dropboxapi.com,🛫 🔥超速通过
+HOST-SUFFIX,dropboxusercontent.com,🛫 🔥超速通过
 # > Fastly
 HOST-SUFFIX,freetls.fastly.net,PROXY
 HOST,cloud-cdn-digitalocean-com.global.ssl.fastly.net,PROXY
@@ -285,3 +285,5 @@ HOST-SUFFIX,goog,🇺🇸 漂亮专用
 HOST-SUFFIX,googleapis.com,🇺🇸 漂亮专用
 # 广告赚钱插件slice
 HOST-SUFFIX,addslice.com,🛫 🔥超速通过
+#missav
+HOST-SUFFIX,missav.com,🛫 🔥超速通过
