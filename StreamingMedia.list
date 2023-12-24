@@ -1,0 +1,339 @@
+# Streaming Media
+
+# (Live)
+# > Twitch
+HOST-SUFFIX,ext-twitch.tv,🛫 🔥超速通过
+HOST-SUFFIX,jtvnw.net,🛫 🔥超速通过
+HOST-SUFFIX,ttvnw.net,🛫 🔥超速通过
+HOST-SUFFIX,twitch.tv,🛫 🔥超速通过
+HOST-SUFFIX,twitchcdn.net,🛫 🔥超速通过
+HOST-SUFFIX,twitch-ext.rootonline.de,🛫 🔥超速通过
+
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*,🛫 🔥超速通过
+HOST-SUFFIX,deezer.com,🛫 🔥超速通过
+HOST-SUFFIX,dzcdn.net,🛫 🔥超速通过
+# > JOOX
+USER-AGENT,JOOX*,🛫 🔥超速通过
+USER-AGENT,WeMusic*,🛫 🔥超速通过
+HOST-SUFFIX,joox.com,🛫 🔥超速通过
+HOST-KEYWORD,jooxweb-api,🛫 🔥超速通过
+# > KKBOX
+HOST-SUFFIX,kkbox.com,🛫 🔥超速通过
+HOST-SUFFIX,kkbox.com.tw,🛫 🔥超速通过
+HOST-SUFFIX,kfs.io,🛫 🔥超速通过
+# > Pandora
+USER-AGENT,Pandora*,🛫 🔥超速通过
+HOST-SUFFIX,pandora.com,🛫 🔥超速通过
+# > SoundCloud
+USER-AGENT,SoundCloud*,🛫 🔥超速通过
+HOST-SUFFIX,p-cdn.us,🛫 🔥超速通过
+HOST-SUFFIX,sndcdn.com,🛫 🔥超速通过
+HOST-SUFFIX,soundcloud.com,🛫 🔥超速通过
+# > Spotify
+USER-AGENT,Spotify*,🛫 🔥超速通过
+HOST-SUFFIX,pscdn.co,🛫 🔥超速通过
+HOST-SUFFIX,scdn.co,🛫 🔥超速通过
+HOST-SUFFIX,spotify.com,🛫 🔥超速通过
+HOST-SUFFIX,spoti.fi,🛫 🔥超速通过
+HOST-KEYWORD,spotify.com,🛫 🔥超速通过
+HOST-KEYWORD,-spotify-com,🛫 🔥超速通过
+# > TIDAL
+USER-AGENT,TIDAL*,🛫 🔥超速通过
+HOST-SUFFIX,tidal.com,🛫 🔥超速通过
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,🛫 🔥超速通过
+USER-AGENT,YouTubeMusic*,🛫 🔥超速通过
+
+# (Podcast)
+# > Himalaya
+USER-AGENT,Himalaya*,🛫 🔥超速通过
+HOST-SUFFIX,himalaya.com,🛫 🔥超速通过
+# > Overcast
+USER-AGENT,Overcast*,🛫 🔥超速通过
+HOST-SUFFIX,overcast.fm,🛫 🔥超速通过
+
+# (Video)
+# > AbemaTV
+USER-AGENT,AbemaTV*,🛫 🔥超速通过
+HOST-SUFFIX,abema.io,🛫 🔥超速通过
+HOST-SUFFIX,abema.tv,🛫 🔥超速通过
+HOST-SUFFIX,abema-tv.com,🛫 🔥超速通过
+HOST-SUFFIX,ameba.jp,🛫 🔥超速通过
+HOST-SUFFIX,hayabusa.io,🛫 🔥超速通过
+HOST-SUFFIX,hayabusa.media,🛫 🔥超速通过
+HOST,api-abematv.bucketeer.jp,🛫 🔥超速通过
+HOST-KEYWORD,abematv.akamaized.net,🛫 🔥超速通过
+# > All 4
+USER-AGENT,All4*,🛫 🔥超速通过
+HOST-SUFFIX,c4assets.com,🛫 🔥超速通过
+HOST-SUFFIX,channel4.com,🛫 🔥超速通过
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,🛫 🔥超速通过
+USER-AGENT,Prime%20Video*,🛫 🔥超速通过
+HOST-SUFFIX,aiv-cdn.net,🛫 🔥超速通过
+HOST-SUFFIX,aiv-delivery.net,🛫 🔥超速通过
+HOST-SUFFIX,amazonvideo.com,🛫 🔥超速通过
+HOST-SUFFIX,media-amazon.com,🛫 🔥超速通过
+HOST-SUFFIX,primevideo.com,🛫 🔥超速通过
+HOST-SUFFIX,pv-cdn.net,🛫 🔥超速通过
+HOST,atv-ps.amazon.com,🛫 🔥超速通过
+HOST,fls-na.amazon.com,🛫 🔥超速通过
+HOST,avodmp4s3ww-a.akamaihd.net,🛫 🔥超速通过
+HOST,d25xi40x97liuc.cloudfront.net,🛫 🔥超速通过
+HOST,dmqdd6hw24ucf.cloudfront.net,🛫 🔥超速通过
+HOST,dmqdd6hw24ucf.cloudfront.net,🛫 🔥超速通过
+HOST,d22qjgkvxw22r6.cloudfront.net,🛫 🔥超速通过
+HOST,d1v5ir2lpwr8os.cloudfront.net,🛫 🔥超速通过
+HOST,d27xxe7juh1us6.cloudfront.net,🛫 🔥超速通过
+# HOST,www.amazon.com,🛫 🔥超速通过
+HOST-KEYWORD,avoddashs,🛫 🔥超速通过
+# > Apple Music TV
+HOST,tv.applemusic.com,🛫 🔥超速通过
+# > Apple TV
+HOST,linear.tv.apple.com,🛫 🔥超速通过
+HOST,play-edge.itunes.apple.com,🛫 🔥超速通过
+HOST,uts-api.itunes.apple.com,🛫 🔥超速通过
+# > Bahamut
+USER-AGENT,Anime*,🛫 🔥超速通过
+HOST-SUFFIX,bahamut.com.tw,🛫 🔥超速通过
+HOST-SUFFIX,gamer.com.tw,🛫 🔥超速通过
+HOST,bahamut.akamaized.net,🛫 🔥超速通过
+HOST,gamer-cds.cdn.hinet.net,🛫 🔥超速通过
+HOST,gamer2-cds.cdn.hinet.net,🛫 🔥超速通过
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,🛫 🔥超速通过
+HOST-SUFFIX,bbc.co.uk,🛫 🔥超速通过
+HOST-SUFFIX,bbci.co.uk,🛫 🔥超速通过
+HOST-KEYWORD,bbcfmt,🛫 🔥超速通过
+HOST-KEYWORD,uk-live,🛫 🔥超速通过
+# > bilibili Intl
+HOST-SUFFIX,biliintl.com,🛫 🔥超速通过
+HOST,apm-misaka.biliapi.net,🛫 🔥超速通过
+HOST,p.bstarstatic.com,🛫 🔥超速通过
+HOST,p-bstarstatic.akamaized.net,🛫 🔥超速通过
+HOST,upos-bstar-mirrorakam.akamaized.net,🛫 🔥超速通过
+HOST,upos-bstar1-mirrorakam.akamaized.net,🛫 🔥超速通过
+# > DAZN
+USER-AGENT,DAZN*,🛫 🔥超速通过
+HOST-SUFFIX,dazn.com,🛫 🔥超速通过
+HOST-SUFFIX,dazn-api.com,🛫 🔥超速通过
+HOST-SUFFIX,dazndn.com,🛫 🔥超速通过
+HOST-SUFFIX,indazn.com,🛫 🔥超速通过
+HOST,d151l6v8er5bdm.cloudfront.net,🛫 🔥超速通过
+HOST-KEYWORD,voddazn,🛫 🔥超速通过
+# > discovery+
+USER-AGENT,DPlus*,🛫 🔥超速通过
+USER-AGENT,discovery+*,🛫 🔥超速通过
+HOST-SUFFIX,disco-api.com,🛫 🔥超速通过
+HOST-SUFFIX,discoveryplus.co.uk,🛫 🔥超速通过
+HOST-SUFFIX,discoveryplus.com,🛫 🔥超速通过
+HOST-SUFFIX,discoveryplus.in,🛫 🔥超速通过
+HOST-SUFFIX,dnitv.com,🛫 🔥超速通过
+# HOST,go-prod-vz.akamaized.net,🛫 🔥超速通过
+HOST,x-default-stgec.uplynk.com,🛫 🔥超速通过
+HOST-KEYWORD,discovery.uplynk.com,🛫 🔥超速通过
+# > Disney+
+USER-AGENT,Disney+*,🛫 🔥超速通过
+HOST-SUFFIX,bamgrid.com,🛫 🔥超速通过
+HOST-SUFFIX,disneyplus.com,🛫 🔥超速通过
+HOST-SUFFIX,disney-plus.net,🛫 🔥超速通过
+HOST-SUFFIX,disney🛫 🔥超速通过.com,🛫 🔥超速通过
+HOST-SUFFIX,dssott.com,🛫 🔥超速通过
+HOST,cdn.registerdisney.go.com,🛫 🔥超速通过
+# > DMM
+HOST-SUFFIX,dmm.co.jp,🛫 🔥超速通过
+HOST-SUFFIX,dmm.com,🛫 🔥超速通过
+HOST-SUFFIX,dmm-extension.com,🛫 🔥超速通过
+# > encoreTVB
+USER-AGENT,encoreTVB*,🛫 🔥超速通过
+HOST-SUFFIX,encoretvb.com,🛫 🔥超速通过
+HOST,edge.api.brightcove.com,🛫 🔥超速通过
+HOST,bcbolt446c5271-a.akamaihd.net,🛫 🔥超速通过
+# > Hami Video
+HOST-SUFFIX,ott.hinet.net,🛫 🔥超速通过
+HOST-SUFFIX,hamivideo.hinet.net,🛫 🔥超速通过
+HOST,hls-hichannel.cdn.hinet.net,🛫 🔥超速通过
+HOST-KEYWORD,hamivideo.cdn.hinet.net,🛫 🔥超速通过
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*,🛫 🔥超速通过
+HOST-SUFFIX,hbo.com,🛫 🔥超速通过
+HOST-SUFFIX,hbogo.com,🛫 🔥超速通过
+HOST-SUFFIX,hbonow.com,🛫 🔥超速通过
+USER-AGENT,HBOMAX*,🛫 🔥超速通过
+HOST-SUFFIX,hbomax.com,🛫 🔥超速通过
+HOST-SUFFIX,hbomaxcdn.com,🛫 🔥超速通过
+# > HBO Asia
+USER-AGENT,HBO%20GO%20PROD*,🛫 🔥超速通过
+HOST-SUFFIX,hbogoasia.com,🛫 🔥超速通过
+HOST-SUFFIX,hbogoasia.hk,🛫 🔥超速通过
+HOST-KEYWORD,.hbogoasia.,🛫 🔥超速通过
+HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,🛫 🔥超速通过
+HOST,bcbolthboa-a.akamaihd.net,🛫 🔥超速通过
+HOST,cf-images.ap-southeast-1.prod.boltdns.net,🛫 🔥超速通过
+HOST,dai3fd1oh325y.cloudfront.net,🛫 🔥超速通过
+HOST,hboasia1-i.akamaihd.net,🛫 🔥超速通过
+HOST,hboasia2-i.akamaihd.net,🛫 🔥超速通过
+HOST,hboasia3-i.akamaihd.net,🛫 🔥超速通过
+HOST,hboasia4-i.akamaihd.net,🛫 🔥超速通过
+HOST,hboasia5-i.akamaihd.net,🛫 🔥超速通过
+HOST,hboasialive.akamaized.net,🛫 🔥超速通过
+HOST,hbogoprod-vod.akamaized.net,🛫 🔥超速通过
+HOST,hbolb.onwardsmg.com,🛫 🔥超速通过
+HOST,hbounify-prod.evergent.com,🛫 🔥超速通过
+HOST,players.brightcove.net,🛫 🔥超速通过
+HOST,s3-ap-southeast-1.amazonaws.com,🛫 🔥超速通过
+# > 华文电视
+USER-AGENT,HWTVMobile*,🛫 🔥超速通过
+HOST-SUFFIX,5itv.tv,🛫 🔥超速通过
+HOST-SUFFIX,ocnttv.com,🛫 🔥超速通过
+# > Hulu
+HOST-SUFFIX,hulu.com,🛫 🔥超速通过
+HOST-SUFFIX,huluim.com,🛫 🔥超速通过
+HOST-SUFFIX,hulustream.com,🛫 🔥超速通过
+# > Hulu / フールー
+HOST-SUFFIX,happyon.jp,🛫 🔥超速通过
+HOST-SUFFIX,hjholdings.jp,🛫 🔥超速通过
+HOST-SUFFIX,hulu.jp,🛫 🔥超速通过
+# > ITV
+USER-AGENT,ITV_Player*,🛫 🔥超速通过
+HOST-SUFFIX,itv.com,🛫 🔥超速通过
+HOST-SUFFIX,itvstatic.com,🛫 🔥超速通过
+HOST,itvpnpmobile-a.akamaihd.net,🛫 🔥超速通过
+# > iQIYI
+HOST-SUFFIX,iq.com,🛫 🔥超速通过
+HOST,intl.iqiyi.com,🛫 🔥超速通过
+HOST,intl-rcd.iqiyi.com,🛫 🔥超速通过
+HOST,intl-subscription.iqiyi.com,🛫 🔥超速通过
+IP-CIDR,23.53.32.88/32,🛫 🔥超速通过
+IP-CIDR,23.211.15.99/32,🛫 🔥超速通过
+IP-CIDR,103.5.34.153/32,🛫 🔥超速通过
+IP-CIDR,104.109.129.153/32,🛫 🔥超速通过
+IP-CIDR,110.238.107.47/32,🛫 🔥超速通过
+IP-CIDR,118.26.32.178/32,🛫 🔥超速通过
+IP-CIDR,203.74.95.131/32,🛫 🔥超速通过
+IP-CIDR,203.74.95.139/32,🛫 🔥超速通过
+IP-CIDR,203.74.95.153/32,🛫 🔥超速通过
+IP-CIDR,203.211.4.169/32,🛫 🔥超速通过
+IP-CIDR,203.211.4.193/32,🛫 🔥超速通过
+IP-CIDR,210.71.227.200/32,🛫 🔥超速通过
+IP-CIDR,210.71.227.202/32,🛫 🔥超速通过
+IP-CIDR,210.201.32.8/32,🛫 🔥超速通过
+IP-CIDR,210.201.32.11/32,🛫 🔥超速通过
+# > KKTV
+USER-AGENT,KKTV*,🛫 🔥超速通过
+USER-AGENT,com.kktv.ios.kktv*,🛫 🔥超速通过
+HOST-SUFFIX,kktv.com.tw,🛫 🔥超速通过
+HOST-SUFFIX,kktv.me,🛫 🔥超速通过
+HOST,kktv-theater.kk.stream,🛫 🔥超速通过
+# > LINE TV
+USER-AGENT,LINE%20TV*,🛫 🔥超速通过
+HOST-SUFFIX,linetv.tw,🛫 🔥超速通过
+HOST,d3c7rimkq79yfu.cloudfront.net,🛫 🔥超速通过
+# > LiTV
+HOST-SUFFIX,litv.tv,🛫 🔥超速通过
+HOST,litvfreemobile-hichannel.cdn.hinet.net,🛫 🔥超速通过
+# > My5
+USER-AGENT,My5*,🛫 🔥超速通过
+HOST-SUFFIX,channel5.com,🛫 🔥超速通过
+HOST-SUFFIX,my5.tv,🛫 🔥超速通过
+HOST,d349g9zuie06uo.cloudfront.net,🛫 🔥超速通过
+# > myTV SUPER
+USER-AGENT,mytv*,🛫 🔥超速通过
+HOST-SUFFIX,mytvsuper.com,🛫 🔥超速通过
+HOST-SUFFIX,tvb.com,🛫 🔥超速通过
+# > Naver TV
+USER-AGENT,Naver%20TV*,🛫 🔥超速通过
+HOST-SUFFIX,naver.com,🛫 🔥超速通过
+HOST-SUFFIX,smartmediarep.com,🛫 🔥超速通过
+# > Netflix
+USER-AGENT,Argo*,🛫 🔥超速通过
+HOST-SUFFIX,netflix.com,🛫 🔥超速通过
+HOST-SUFFIX,netflix.net,🛫 🔥超速通过
+HOST-SUFFIX,nflxext.com,🛫 🔥超速通过
+HOST-SUFFIX,nflximg.com,🛫 🔥超速通过
+HOST-SUFFIX,nflximg.net,🛫 🔥超速通过
+HOST-SUFFIX,nflxso.net,🛫 🔥超速通过
+HOST-SUFFIX,nflxvideo.net,🛫 🔥超速通过
+HOST-KEYWORD,netflixdnstest,🛫 🔥超速通过
+HOST-KEYWORD,apiproxy-device-prod-nlb-,🛫 🔥超速通过
+HOST-KEYWORD,dualstack.apiproxy-,🛫 🔥超速通过
+# GEOIP,NETFLIX,🛫 🔥超速通过
+# > niconico
+USER-AGENT,Niconico*,🛫 🔥超速通过
+HOST-SUFFIX,dmc.nico,🛫 🔥超速通过
+HOST-SUFFIX,nicovideo.jp,🛫 🔥超速通过
+HOST-SUFFIX,nimg.jp,🛫 🔥超速通过
+# > Now E
+HOST-SUFFIX,nowe.com,🛫 🔥超速通过
+HOST-SUFFIX,nowestatic.com,🛫 🔥超速通过
+# > Paramount+
+USER-AGENT,PPlus*,🛫 🔥超速通过
+HOST-SUFFIX,cbsi.com,🛫 🔥超速通过
+HOST-SUFFIX,cbsaavideo.com,🛫 🔥超速通过
+HOST-SUFFIX,cbsivideo.com,🛫 🔥超速通过
+HOST-SUFFIX,paramountplus.com,🛫 🔥超速通过
+HOST-SUFFIX,pplusstatic.com,🛫 🔥超速通过
+HOST,cbsi.live.ott.irdeto.com,🛫 🔥超速通过
+HOST,cbsplaylistserver.aws.syncbak.com,🛫 🔥超速通过
+HOST,cbsservice.aws.syncbak.com,🛫 🔥超速通过
+HOST,link.theplatform.com,🛫 🔥超速通过
+# > PBS
+USER-AGENT,PBS*,🛫 🔥超速通过
+HOST-SUFFIX,pbs.org,🛫 🔥超速通过
+# > Peacock
+USER-AGENT,PeacockMobile*,🛫 🔥超速通过
+HOST-SUFFIX,peacocktv.com,🛫 🔥超速通过
+# > Pornhub
+HOST-SUFFIX,phncdn.com,🛫 🔥超速通过
+HOST-SUFFIX,phprcdn.com,🛫 🔥超速通过
+HOST-SUFFIX,pornhub.com,🛫 🔥超速通过
+HOST-SUFFIX,pornhubpremium.com,🛫 🔥超速通过
+# > 台湾好
+USER-AGENT,TaiwanGood*,🛫 🔥超速通过
+HOST-SUFFIX,skyking.com.tw,🛫 🔥超速通过
+HOST,hamifans.emome.net,🛫 🔥超速通过
+# > TikTok
+USER-AGENT,TikTok*,🛫 🔥超速通过
+HOST-SUFFIX,byteoversea.com,🛫 🔥超速通过
+HOST-SUFFIX,ibytedtos.com,🛫 🔥超速通过
+HOST-SUFFIX,muscdn.com,🛫 🔥超速通过
+HOST-SUFFIX,musical.ly,🛫 🔥超速通过
+HOST-SUFFIX,tiktok.com,🛫 🔥超速通过
+HOST-SUFFIX,tik-tokapi.com,🛫 🔥超速通过
+HOST-SUFFIX,tiktokcdn.com,🛫 🔥超速通过
+HOST-SUFFIX,tiktokv.com,🛫 🔥超速通过
+HOST-KEYWORD,tiktokcdn-,🛫 🔥超速通过
+# > TVer
+USER-AGENT,TVer-Release*,🛫 🔥超速通过
+HOST-SUFFIX,tver.jp,🛫 🔥超速通过
+HOST,edge.api.brightcove.com,🛫 🔥超速通过
+# > ViuTV
+USER-AGENT,Viu*,🛫 🔥超速通过
+HOST-SUFFIX,viu.com,🛫 🔥超速通过
+HOST-SUFFIX,viu.tv,🛫 🔥超速通过
+HOST,api.viu.now.com,🛫 🔥超速通过
+HOST,d1k2us671qcoau.cloudfront.net,🛫 🔥超速通过
+HOST,d2anahhhmp1ffz.cloudfront.net,🛫 🔥超速通过
+HOST,dfp6rglgjqszk.cloudfront.net,🛫 🔥超速通过
+# > WeTV
+USER-AGENT,WeTV*,🛫 🔥超速通过
+HOST-SUFFIX,wetv.vip,🛫 🔥超速通过
+HOST-SUFFIX,wetvinfo.com,🛫 🔥超速通过
+IP-CIDR,150.109.28.51/32,🛫 🔥超速通过
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,🛫 🔥超速通过
+USER-AGENT,YouTube*,🛫 🔥超速通过
+HOST-SUFFIX,googlevideo.com,🛫 🔥超速通过
+HOST-SUFFIX,withyoutube.com,🛫 🔥超速通过
+HOST-SUFFIX,youtu.be,🛫 🔥超速通过
+HOST-SUFFIX,youtube.com,🛫 🔥超速通过
+HOST-SUFFIX,youtubeeducation.com,🛫 🔥超速通过
+HOST-SUFFIX,youtubegaming.com,🛫 🔥超速通过
+HOST-SUFFIX,youtubekids.com,🛫 🔥超速通过
+HOST-SUFFIX,youtube-nocookie.com,🛫 🔥超速通过
+HOST-SUFFIX,yt.be,🛫 🔥超速通过
+HOST-SUFFIX,ytimg.com,🛫 🔥超速通过
+HOST,youtubei.googleapis.com,🛫 🔥超速通过
+HOST,yt3.ggpht.com,🛫 🔥超速通过
