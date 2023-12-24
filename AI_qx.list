@@ -8,6 +8,7 @@ HOST-SUFFIX,api.statsig.com,🤖 AI -美英
 HOST-SUFFIX,auth0.com,🤖 AI -美英
 HOST-SUFFIX,cdn.cloudflare.net,🤖 AI -美英
 HOST-SUFFIX,challenges.cloudflare.com,🤖 AI -美英
+HOST-SUFFIX,chatgpt.com,🤖 AI -美英
 HOST-SUFFIX,chatgpt.livekit.cloud,🤖 AI -美英
 HOST-SUFFIX,client-api.arkoselabs.com,🤖 AI -美英
 HOST-SUFFIX,events.statsigapi.net,🤖 AI -美英
@@ -45,10 +46,10 @@ HOST,makersuite.google.com,bard-欧、英、瑞士
 HOST,www.google-analytics.com,bard-欧、英、瑞士
 # ---
 # https://www.bing.com/
-HOST,cdn.usefathom.com,🇺🇸 漂亮专用
-HOST,copilot.microsoft.com,🇺🇸 漂亮专用
-HOST-SUFFIX,bing.com,🇺🇸 漂亮专用
-HOST,services.bingapis.com,🇺🇸 漂亮专用
+HOST,cdn.usefathom.com,🤖 AI -美英
+HOST,copilot.microsoft.com,🤖 AI -美英
+HOST-SUFFIX,bing.com,🤖 AI -美英
+HOST,services.bingapis.com,🤖 AI -美英
 # ---
 # 马斯克的推特Grok
 HOST,grok.x.ai,🤖 AI -美英
