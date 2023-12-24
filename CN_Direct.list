@@ -22,7 +22,9 @@ HOST-SUFFIX,paypalobjects.com,DIRECT
 IP-CIDR,182.254.116.0/24,DIRECT
 IP-CIDR,203.205.238.0/23,DIRECT
 IP-CIDR,203.205.254.0/23,DIRECT
-
+#---
+# 有道翻译API
+HOST,openapi.youdao.com,🛫 🔥超速通过
 GEOIP,CN,DIRECT
 # 广医医院
 HOST,wx.gyey.com,DIRECT
