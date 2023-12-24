@@ -1,3 +1,29 @@
+# ---(Microsoft)---
+# > Outlook
+HOST,outlook.office365.com,DIRECT
+HOST,smtp-mail.outlook.com,DIRECT
+HOST,smtp.office365.com,DIRECT
+# > Windows Server Update Services
+HOST-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
+HOST-SUFFIX,update.microsoft.com,DIRECT
+HOST-SUFFIX,windowsupdate.com,DIRECT
+HOST-SUFFIX,windowsupdate.microsoft.com,DIRECT
+HOST,download.microsoft.com,DIRECT
+HOST,wustat.windows.com,DIRECT
+HOST,ntservicepack.microsoft.com,DIRECT
+# ------
+# > PayPal
+HOST-SUFFIX,paypal.com,DIRECT
+HOST-SUFFIX,paypal.me,DIRECT
+HOST-SUFFIX,paypal-mktg.com,DIRECT
+HOST-SUFFIX,paypalobjects.com,DIRECT
+# ------
+# > Tencent
+IP-CIDR,182.254.116.0/24,DIRECT
+IP-CIDR,203.205.238.0/23,DIRECT
+IP-CIDR,203.205.254.0/23,DIRECT
+
+GEOIP,CN,DIRECT
 # 广医医院
 HOST,wx.gyey.com,DIRECT
 # 东吴秀财
