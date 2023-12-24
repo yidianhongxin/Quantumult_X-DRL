@@ -296,6 +296,7 @@ HOST-SUFFIX,skyking.com.tw,🛫 🔥超速通过
 HOST,hamifans.emome.net,🛫 🔥超速通过
 # > TikTok
 USER-AGENT,TikTok*,🛫 🔥超速通过
+HOST,video.twimg.com,🛫 🔥超速通过
 HOST-SUFFIX,byteoversea.com,🛫 🔥超速通过
 HOST-SUFFIX,ibytedtos.com,🛫 🔥超速通过
 HOST-SUFFIX,muscdn.com,🛫 🔥超速通过
