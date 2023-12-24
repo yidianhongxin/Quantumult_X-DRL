@@ -1,0 +1,6 @@
+# 广医医院
+HOST,wx.gyey.com,DIRECT
+# 东吴秀财
+HOST-SUFFIX,showcai.com.cn,DIRECT
+# 政府类后缀
+HOST-SUFFIX,gov.cn,DIRECT
