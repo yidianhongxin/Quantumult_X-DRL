@@ -50,4 +50,5 @@ HOST,copilot.microsoft.com,🇺🇸 漂亮专用
 HOST-SUFFIX,bing.com,🇺🇸 漂亮专用
 HOST,services.bingapis.com,🇺🇸 漂亮专用
 # ---
-# https://www.google.com
+# 马斯克的推特Grok
+HOST,grok.x.ai,🤖 AI -美英
