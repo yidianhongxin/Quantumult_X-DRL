@@ -47,9 +47,7 @@ HOST-SUFFIX,webrtc.org,PROXY
 HOST-SUFFIX,widevine.com,PROXY
 HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
 HOST-SUFFIX,zynamics.com,PROXY
-HOST-KEYWORD,google,PROXY
 HOST-KEYWORD,.blogspot.,PROXY
-HOST-SUFFIX,goog,PROXY
 # > Apple
 HOST,testflight.apple.com,PROXY
 # > Automattic
@@ -281,5 +279,9 @@ HOST-SUFFIX,licdn.com,PROXY
 HOST-SUFFIX,msn.com,PROXY
 HOST-SUFFIX,skype.com,PROXY
 # ---
+# > google.com
+HOST-KEYWORD,google,🇺🇸 漂亮专用
+HOST-SUFFIX,goog,🇺🇸 漂亮专用
+HOST-SUFFIX,googleapis.com,🇺🇸 漂亮专用
 # 广告赚钱插件slice
 HOST-SUFFIX,addslice.com,🛫 🔥超速通过
