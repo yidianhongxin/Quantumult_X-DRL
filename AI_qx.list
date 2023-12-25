@@ -50,7 +50,7 @@ HOST,cdn.usefathom.com,🤖 AI -美英
 HOST,copilot.microsoft.com,🤖 AI -美英
 HOST-SUFFIX,bing.com,🤖 AI -美英
 HOST-SUFFIX,bing.net,🤖 AI -美英
-HOST,services.bingapis.com,🤖 AI -美英
+HOST-SUFFIX,bingapis.com,🤖 AI -美英
 HOST,cn.bing.com,🤖 AI -美英
 # ---
 # 马斯克的推特Grok
