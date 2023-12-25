@@ -173,27 +173,30 @@ HOST-SUFFIX,reutersmedia.net,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
 # HOST,store.steampowered.com,PROXY
 # > Telegram
-HOST-SUFFIX,legra.ph,PROXY
-HOST-SUFFIX,t.me,PROXY
-HOST-SUFFIX,tdesktop.com,PROXY
-HOST-SUFFIX,telegra.ph,PROXY
-HOST-SUFFIX,telegram.me,PROXY
-HOST-SUFFIX,telegram.org,PROXY
-HOST-SUFFIX,telesco.pe,PROXY
-IP-CIDR,91.108.4.0/22,PROXY
-IP-CIDR,91.108.8.0/22,PROXY
-IP-CIDR,91.108.12.0/22,PROXY
-IP-CIDR,91.108.16.0/22,PROXY
-IP-CIDR,91.108.20.0/22,PROXY
-IP-CIDR,91.108.56.0/22,PROXY
-IP-CIDR,91.105.192.0/23,PROXY
-IP-CIDR,149.154.160.0/20,PROXY
-IP-CIDR,185.76.151.0/24,PROXY
-IP6-CIDR,2001:b28:f23d::/48,PROXY
-IP6-CIDR,2001:b28:f23f::/48,PROXY
-IP6-CIDR,2001:67c:4e8::/48,PROXY
-IP6-CIDR,2001:b28:f23c::/48,PROXY
-IP6-CIDR,2a0a:f280::/32,PROXY
+HOST-SUFFIX,legra.ph,🛫 🔥超速通过
+HOST-SUFFIX,t.me,🛫 🔥超速通过
+HOST-SUFFIX,tdesktop.com,🛫 🔥超速通过
+HOST-SUFFIX,telegra.ph,🛫 🔥超速通过
+HOST-SUFFIX,telegram.me,🛫 🔥超速通过
+HOST-SUFFIX,telegram.org,🛫 🔥超速通过
+HOST-SUFFIX,telesco.pe,🛫 🔥超速通过
+IP-CIDR,91.108.4.0/22,🛫 🔥超速通过
+IP-CIDR,91.108.8.0/22,🛫 🔥超速通过
+IP-CIDR,91.108.12.0/22,🛫 🔥超速通过
+IP-CIDR,91.108.16.0/22,🛫 🔥超速通过
+IP-CIDR,91.108.20.0/22,🛫 🔥超速通过
+IP-CIDR,91.108.56.0/22,🛫 🔥超速通过
+IP-CIDR,91.105.192.0/23,🛫 🔥超速通过
+IP-CIDR,149.154.160.0/20,🛫 🔥超速通过
+IP-CIDR,185.76.151.0/24,🛫 🔥超速通过
+IP6-CIDR,2001:b28:f23d::/48,🛫 🔥超速通过
+IP6-CIDR,2001:b28:f23f::/48,🛫 🔥超速通过
+IP6-CIDR,2001:67c:4e8::/48,🛫 🔥超速通过
+IP6-CIDR,2001:b28:f23c::/48,🛫 🔥超速通过
+IP6-CIDR,2a0a:f280::/32,🛫 🔥超速通过
+IP-ASN,62014,🛫 🔥超速通过
+IP-ASN,62041,🛫 🔥超速通过
+IP-ASN,4134,🛫 🔥超速通过
 # > The Economist
 HOST-SUFFIX,economist.com,PROXY
 HOST-SUFFIX,static-economist.com,PROXY
