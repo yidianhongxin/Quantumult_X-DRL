@@ -11,6 +11,9 @@
 - [外区网站分流](https://raw.githubusercontent.com/yidianhongxin/Quantumult_X-DRL/main/Global.list)：推特、微软、电报、google等分流规则；
 - [国外流媒体](https://raw.githubusercontent.com/yidianhongxin/Quantumult_X-DRL/main/StreamingMedia.list)：youtube、tiktok等规则；
 - [国内IP直连](https://github.com/yidianhongxin/Quantumult_X-DRL/blob/main/GEOIP%20(CN).list)：汇总了一些可判定为国内IP的地址进行直连；
+- [毒奶去广告](https://github.com/yidianhongxin/Quantumult_X-DRL/blob/main/Adblock4limbo.list)：毒奶去广告的备份库（避免作者删库的备份）；
+- [苹果🍎网址分流](https://github.com/yidianhongxin/Quantumult_X-DRL/blob/main/GEOIP%20(CN).list))：判定为苹果网址来源的分流集合；
+- [禁止iphone升级](https://github.com/yidianhongxin/Quantumult_X-DRL/blob/main/BlockiOSUpdate.list)：禁止iphone手机升级；
 ## 节点策略设置：
 由于分流规则中会引用到对应的策略，所以创建名称必须和以下策略名称一一对应，才能无缝运行；创建策略的方法如下：
 ### 自定义策略→填加新策略
