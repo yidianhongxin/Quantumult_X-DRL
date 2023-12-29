@@ -24,7 +24,7 @@
 - 需匹配的资源标签-正则：.*
 - 需匹配的节点标签-正则：United States|美国|United Kingdom|英国（释义：每个人的机场节点不同，这个意思是选机场里含有美国和英国的节点，如果节点没有这些可更换其它开头的节点）
 #### 举例：“🤖 AI -美英”策略的设置
-![WechatIMG507](https://github.com/yidianhongxin/Quantumult_X-DRL/assets/11401362/cbba4ef8-cfb9-4d93-99cd-746668b02f6c)
+![WechatIMG507](<img src="https://github.com/yidianhongxin/Quantumult_X-DRL/assets/11401362/a4d2da6f-2f0f-4042-acc1-b1dcc82208ec"style="width:50%; ">)
 
 ### 以下是分流规则名称和“需匹配的节点标签”
 - 🎵 TikTok：美国|United States
