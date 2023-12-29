@@ -1,5 +1,6 @@
 # Quantumult_X-pro
-关于Quantumultx的自建策略，包括分流、重写等资源。
+- [Quantumult小白基础教程请自学](https://github.com/erdongchanyo/Rules/tree/main/Quantumult%20X)；
+- 本文重点介绍关于Quantumultx的自建策略，包括分流、重写等资源。内容简单，只需要按步骤跟做；
 ## 分流规则：
 ### 步骤：点击小风车→分流（规则资源）→右上角标志（填加分流资源）
 <img width="665" alt="iShot_2023-12-25_17 32 14" src="https://github.com/yidianhongxin/Quantumult_X-DRL/assets/11401362/f2161ba2-e632-4c91-88c7-c657dc7297ff">
@@ -22,5 +23,14 @@
 - 图标：图标可自定义，也可按我提供的对应图标；
 - 需匹配的资源标签-正则：.*
 - 需匹配的节点标签-正则：United States|美国|United Kingdom|英国（释义：每个人的机场节点不同，这个意思是选机场里含有美国和英国的节点，如果节点没有这些可更换其它开头的节点）
-### 以下分别是和分流规则对应的节点策略
+#### 举例：“🤖 AI -美英”策略的设置
+![WechatIMG507](https://github.com/yidianhongxin/Quantumult_X-DRL/assets/11401362/cbba4ef8-cfb9-4d93-99cd-746668b02f6c)
+
+### 以下是分流规则名称和“需匹配的节点标签”
+- 🎵 TikTok：美国|United States
+- 🇺🇸 漂亮专用：美国|United States
+- 🛫 🔥超速通过：香港|Hong Kong
+- bard-欧、英、瑞士：United Kingdom|German|French|英国|瑞士|德国
+- 🤖 AI -美英：United States|United Kingdom
+- 🐟 Final：香港|Australia
 
