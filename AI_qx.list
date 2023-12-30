@@ -51,6 +51,7 @@ HOST,copilot.microsoft.com,🤖 AI -美英
 HOST-SUFFIX,bing.com,🤖 AI -美英
 HOST-SUFFIX,bing.net,🤖 AI -美英
 HOST-SUFFIX,bingapis.com,🤖 AI -美英
+HOST,gateway.bingviz.microsoftapp.net,🤖 AI -美英
 HOST,cn.bing.com,DIRECT
 # ---
 # 马斯克的推特Grok
