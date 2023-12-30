@@ -295,41 +295,41 @@ USER-AGENT,TaiwanGood*,🛫 🔥超速通过
 HOST-SUFFIX,skyking.com.tw,🛫 🔥超速通过
 HOST,hamifans.emome.net,🛫 🔥超速通过
 # > TikTok
-USER-AGENT,TikTok*,🛫 🔥超速通过
-HOST,video.twimg.com,🛫 🔥超速通过
-HOST-SUFFIX,byteoversea.com,🛫 🔥超速通过
-HOST-SUFFIX,ibytedtos.com,🛫 🔥超速通过
-HOST-SUFFIX,muscdn.com,🛫 🔥超速通过
-HOST-SUFFIX,musical.ly,🛫 🔥超速通过
-HOST-SUFFIX,tiktok.com,🛫 🔥超速通过
-HOST-SUFFIX,tik-tokapi.com,🛫 🔥超速通过
-HOST-SUFFIX,tiktokcdn.com,🛫 🔥超速通过
-HOST-SUFFIX,tiktokv.com,🛫 🔥超速通过
-HOST-KEYWORD,tiktokcdn-,🛫 🔥超速通过
-HOST,lf16-effectcdn.byteeffecttos-g.com,🛫 🔥超速通过
-HOST,lf16-pkgcdn.pitaya-clientai.com,🛫 🔥超速通过
-HOST,p16-tiktokcdn-com.akamaized.net,🛫 🔥超速通过
-HOST-SUFFIX,bytedapm.com,🛫 🔥超速通过
-HOST-SUFFIX,bytegecko-i18n.com,🛫 🔥超速通过
-HOST-SUFFIX,bytegecko.com,🛫 🔥超速通过
-HOST-SUFFIX,byteoversea.com,🛫 🔥超速通过
-HOST-SUFFIX,capcut.com,🛫 🔥超速通过
-HOST-SUFFIX,ibytedtos.com,🛫 🔥超速通过
-HOST-SUFFIX,ibyteimg.com,🛫 🔥超速通过
-HOST-SUFFIX,ipstatp.com,🛫 🔥超速通过
-HOST-SUFFIX,isnssdk.com,🛫 🔥超速通过
-HOST-SUFFIX,sgpstatp.com,🛫 🔥超速通过
-HOST-SUFFIX,snssdk.com,🛫 🔥超速通过
-HOST-SUFFIX,tik-tokapi.com,🛫 🔥超速通过
-HOST-SUFFIX,tiktok.com,🛫 🔥超速通过
-HOST-SUFFIX,tiktokcdn-us.com,🛫 🔥超速通过
-HOST-SUFFIX,tiktokcdn.com,🛫 🔥超速通过
-HOST-SUFFIX,tiktokd.net,🛫 🔥超速通过
-HOST-SUFFIX,tiktokd.org,🛫 🔥超速通过
-HOST-SUFFIX,tiktokv.com,🛫 🔥超速通过
-HOST-KEYWORD,musical.ly,🛫 🔥超速通过
-HOST-KEYWORD,tiktok,🛫 🔥超速通过
-USER-AGENT,TikTok*,🛫 🔥超速通过
+USER-AGENT,TikTok*,🤖 AI -美英
+HOST,video.twimg.com,🤖 AI -美英
+HOST-SUFFIX,byteoversea.com,🤖 AI -美英
+HOST-SUFFIX,ibytedtos.com,🤖 AI -美英
+HOST-SUFFIX,muscdn.com,🤖 AI -美英
+HOST-SUFFIX,musical.ly,🤖 AI -美英
+HOST-SUFFIX,tiktok.com,🤖 AI -美英
+HOST-SUFFIX,tik-tokapi.com,🤖 AI -美英
+HOST-SUFFIX,tiktokcdn.com,🤖 AI -美英
+HOST-SUFFIX,tiktokv.com,🤖 AI -美英
+HOST-KEYWORD,tiktokcdn-,🤖 AI -美英
+HOST,lf16-effectcdn.byteeffecttos-g.com,🤖 AI -美英
+HOST,lf16-pkgcdn.pitaya-clientai.com,🤖 AI -美英
+HOST,p16-tiktokcdn-com.akamaized.net,🤖 AI -美英
+HOST-SUFFIX,bytedapm.com,🤖 AI -美英
+HOST-SUFFIX,bytegecko-i18n.com,🤖 AI -美英
+HOST-SUFFIX,bytegecko.com,🤖 AI -美英
+HOST-SUFFIX,byteoversea.com,🤖 AI -美英
+HOST-SUFFIX,capcut.com,🤖 AI -美英
+HOST-SUFFIX,ibytedtos.com,🤖 AI -美英
+HOST-SUFFIX,ibyteimg.com,🤖 AI -美英
+HOST-SUFFIX,ipstatp.com,🤖 AI -美英
+HOST-SUFFIX,isnssdk.com,🤖 AI -美英
+HOST-SUFFIX,sgpstatp.com,🤖 AI -美英
+HOST-SUFFIX,snssdk.com,🤖 AI -美英
+HOST-SUFFIX,tik-tokapi.com,🤖 AI -美英
+HOST-SUFFIX,tiktok.com,🤖 AI -美英
+HOST-SUFFIX,tiktokcdn-us.com,🤖 AI -美英
+HOST-SUFFIX,tiktokcdn.com,🤖 AI -美英
+HOST-SUFFIX,tiktokd.net,🤖 AI -美英
+HOST-SUFFIX,tiktokd.org,🤖 AI -美英
+HOST-SUFFIX,tiktokv.com,🤖 AI -美英
+HOST-KEYWORD,musical.ly,🤖 AI -美英
+HOST-KEYWORD,tiktok,🤖 AI -美英
+USER-AGENT,TikTok*,🤖 AI -美英
 # > TVer
 USER-AGENT,TVer-Release*,🛫 🔥超速通过
 HOST-SUFFIX,tver.jp,🛫 🔥超速通过
