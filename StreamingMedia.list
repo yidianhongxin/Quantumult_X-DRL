@@ -312,24 +312,18 @@ HOST,p16-tiktokcdn-com.akamaized.net,🤖 AI -美英
 HOST-SUFFIX,bytedapm.com,🤖 AI -美英
 HOST-SUFFIX,bytegecko-i18n.com,🤖 AI -美英
 HOST-SUFFIX,bytegecko.com,🤖 AI -美英
-HOST-SUFFIX,byteoversea.com,🤖 AI -美英
 HOST-SUFFIX,capcut.com,🤖 AI -美英
-HOST-SUFFIX,ibytedtos.com,🤖 AI -美英
 HOST-SUFFIX,ibyteimg.com,🤖 AI -美英
 HOST-SUFFIX,ipstatp.com,🤖 AI -美英
 HOST-SUFFIX,isnssdk.com,🤖 AI -美英
 HOST-SUFFIX,sgpstatp.com,🤖 AI -美英
 HOST-SUFFIX,snssdk.com,🤖 AI -美英
-HOST-SUFFIX,tik-tokapi.com,🤖 AI -美英
-HOST-SUFFIX,tiktok.com,🤖 AI -美英
 HOST-SUFFIX,tiktokcdn-us.com,🤖 AI -美英
-HOST-SUFFIX,tiktokcdn.com,🤖 AI -美英
 HOST-SUFFIX,tiktokd.net,🤖 AI -美英
 HOST-SUFFIX,tiktokd.org,🤖 AI -美英
-HOST-SUFFIX,tiktokv.com,🤖 AI -美英
-HOST-KEYWORD,musical.ly,🤖 AI -美英
 HOST-KEYWORD,tiktok,🤖 AI -美英
-USER-AGENT,TikTok*,🤖 AI -美英
+# > 新增
+HOST-KEYWORD,-tiktokcdn-com,🤖 AI -美英
 # > TVer
 USER-AGENT,TVer-Release*,🛫 🔥超速通过
 HOST-SUFFIX,tver.jp,🛫 🔥超速通过
