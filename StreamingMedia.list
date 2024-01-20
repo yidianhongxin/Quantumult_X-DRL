@@ -295,35 +295,35 @@ USER-AGENT,TaiwanGood*,🛫 🔥超速通过
 HOST-SUFFIX,skyking.com.tw,🛫 🔥超速通过
 HOST,hamifans.emome.net,🛫 🔥超速通过
 # > TikTok
-USER-AGENT,TikTok*,🤖 AI -美英
-HOST,video.twimg.com,🤖 AI -美英
-HOST-SUFFIX,byteoversea.com,🤖 AI -美英
-HOST-SUFFIX,ibytedtos.com,🤖 AI -美英
-HOST-SUFFIX,muscdn.com,🤖 AI -美英
-HOST-SUFFIX,musical.ly,🤖 AI -美英
-HOST-SUFFIX,tiktok.com,🤖 AI -美英
-HOST-SUFFIX,tik-tokapi.com,🤖 AI -美英
-HOST-SUFFIX,tiktokcdn.com,🤖 AI -美英
-HOST-SUFFIX,tiktokv.com,🤖 AI -美英
-HOST-KEYWORD,tiktokcdn-,🤖 AI -美英
-HOST,lf16-effectcdn.byteeffecttos-g.com,🤖 AI -美英
-HOST,lf16-pkgcdn.pitaya-clientai.com,🤖 AI -美英
-HOST,p16-tiktokcdn-com.akamaized.net,🤖 AI -美英
-HOST-SUFFIX,bytedapm.com,🤖 AI -美英
-HOST-SUFFIX,bytegecko-i18n.com,🤖 AI -美英
-HOST-SUFFIX,bytegecko.com,🤖 AI -美英
-HOST-SUFFIX,capcut.com,🤖 AI -美英
-HOST-SUFFIX,ibyteimg.com,🤖 AI -美英
-HOST-SUFFIX,ipstatp.com,🤖 AI -美英
-HOST-SUFFIX,isnssdk.com,🤖 AI -美英
-HOST-SUFFIX,sgpstatp.com,🤖 AI -美英
-HOST-SUFFIX,snssdk.com,🤖 AI -美英
-HOST-SUFFIX,tiktokcdn-us.com,🤖 AI -美英
-HOST-SUFFIX,tiktokd.net,🤖 AI -美英
-HOST-SUFFIX,tiktokd.org,🤖 AI -美英
-HOST-KEYWORD,tiktok,🤖 AI -美英
+USER-AGENT,TikTok*,🎵 TikTok
+HOST,video.twimg.com,🎵 TikTok
+HOST-SUFFIX,byteoversea.com,🎵 TikTok
+HOST-SUFFIX,ibytedtos.com,🎵 TikTok
+HOST-SUFFIX,muscdn.com,🎵 TikTok
+HOST-SUFFIX,musical.ly,🎵 TikTok
+HOST-SUFFIX,tiktok.com,🎵 TikTok
+HOST-SUFFIX,tik-tokapi.com,🎵 TikTok
+HOST-SUFFIX,tiktokcdn.com,🎵 TikTok
+HOST-SUFFIX,tiktokv.com,🎵 TikTok
+HOST-KEYWORD,tiktokcdn-,🎵 TikTok
+HOST,lf16-effectcdn.byteeffecttos-g.com,🎵 TikTok
+HOST,lf16-pkgcdn.pitaya-clientai.com,🎵 TikTok
+HOST,p16-tiktokcdn-com.akamaized.net,🎵 TikTok
+HOST-SUFFIX,bytedapm.com,🎵 TikTok
+HOST-SUFFIX,bytegecko-i18n.com,🎵 TikTok
+HOST-SUFFIX,bytegecko.com,🎵 TikTok
+HOST-SUFFIX,capcut.com,🎵 TikTok
+HOST-SUFFIX,ibyteimg.com,🎵 TikTok
+HOST-SUFFIX,ipstatp.com,🎵 TikTok
+HOST-SUFFIX,isnssdk.com,🎵 TikTok
+HOST-SUFFIX,sgpstatp.com,🎵 TikTok
+HOST-SUFFIX,snssdk.com,🎵 TikTok
+HOST-SUFFIX,tiktokcdn-us.com,🎵 TikTok
+HOST-SUFFIX,tiktokd.net,🎵 TikTok
+HOST-SUFFIX,tiktokd.org,🎵 TikTok
+HOST-KEYWORD,tiktok,🎵 TikTok
 # > 新增
-HOST-KEYWORD,-tiktokcdn-com,🤖 AI -美英
+HOST-KEYWORD,-tiktokcdn-com,🎵 TikTok
 # > TVer
 USER-AGENT,TVer-Release*,🛫 🔥超速通过
 HOST-SUFFIX,tver.jp,🛫 🔥超速通过
