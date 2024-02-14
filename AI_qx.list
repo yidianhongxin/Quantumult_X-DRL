@@ -45,6 +45,11 @@ HOST,people-pa.clients6.google.com,bard-欧、英、瑞士
 HOST,makersuite.google.com,bard-欧、英、瑞士
 HOST,www.google-analytics.com,bard-欧、英、瑞士
 HOST-KEYWORD,gemini,bard-欧、英、瑞士
+# Gemini
+HOST-KEYWORD,generativelanguage,🤖 AI -美英
+HOST-KEYWORD,colab,🤖 AI -美英
+HOST-SUFFIX,apis.google.com,🤖 AI -美英
+HOST-KEYWORD,developerprofiles,🤖 AI -美英
 # ---
 # https://www.bing.com/
 HOST,cdn.usefathom.com,🤖 AI -美英
